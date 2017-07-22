@@ -1,3 +1,4 @@
+#Time-stamp: <2017-07-21 18:22:05 hamada>
 
 # eth.accounts
 
@@ -6,3 +7,8 @@
 # personal.unlockAccount(address, password)
 
 # eth.getBalance(account)
+
+# net.peerCount
+
+# admin.peers
+
